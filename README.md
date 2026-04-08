@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Tarun Verma
 
-<!--
-**tarunverma01/tarunverma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CS student passionate about DSA, backend development with Node.js, and building mobile apps with Flutter.
+- 💡 Passionate about DSA & Problem Solving
+- ⚙️ Backend Developer (Node.js, Express)
+- 📱 Flutter App Developer
+- 🔥 Currently working on projects & improving skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
+
+## 📊 GitHub Stats
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunverma01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunverma01&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=tarunverma01&theme=radical)
+
+## 🚀 Projects
+##- 🔹 Project 1 – Short description  
+##- 🔹 Project 2 – Short description  
