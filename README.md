@@ -1,14 +1,5 @@
 # Hyyy 👋, I'm Tarun Verma
 
-## 🚀 About Me
-- 🎓 CS student passionate about DSA, backend development with Node.js, and building mobile apps with Flutter.
-- 💡 Passionate about DSA & Problem Solving
-- ⚙️ Backend Developer (Node.js, Express)
-- 📱 Flutter App Developer
-- 🔥 Currently working on projects & improving skills
-
----
-
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -24,7 +15,3 @@
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tarunverma01&theme=radical)
-
-## 🚀 Projects
-##- 🔹 Project 1 – Short description  
-##- 🔹 Project 2 – Short description  
