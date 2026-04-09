@@ -15,3 +15,6 @@
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tarunverma01&theme=radical)
+
+## Projects
+1. Rock-paper-scissors game
