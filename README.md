@@ -1,4 +1,4 @@
-# Hyyy 👋, I'm Tarun Verma
+# Tarun Verma 👋
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
