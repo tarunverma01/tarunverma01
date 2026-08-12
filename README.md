@@ -19,3 +19,5 @@
 ## Projects
 1. Rock-paper-scissors game
 2. CurrencyConverter
+3. Phase_01
+4. Phase_02
