@@ -13,9 +13,6 @@
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunverma01&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunverma01&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
-## ![GitHub Streak](https://streak-stats.demolab.com/?user=tarunverma01&theme=radical)
-
 ## Projects
 1. Rock-paper-scissors game
 2. CurrencyConverter
