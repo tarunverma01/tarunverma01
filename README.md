@@ -8,13 +8,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
-
-## 📊 GitHub Stats
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunverma01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunverma01&layout=compact&theme=radical)
-
-## Projects
-1. Rock-paper-scissors game
-2. CurrencyConverter
-3. Phase_01
-4. Phase_02
